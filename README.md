@@ -1,2 +1,2 @@
 # Swastika_Pattern
-This Pattern is created with the help of loops and stars in java.
+This Pattern is created with the help of nested loops and stars in java.
